@@ -190,6 +190,9 @@ By leveraging machine learning, CAV AutoInsurance not only achieved more accurat
 
 - Invest in utilizing a Data Scientist to automate Customer Lifetime Value (CLV) analysis through machine learning. By implementing this approach, the company can achieve significant cost savings of $6,322 compared to manual analysis and reduce the project timeline by 11.4 weeks, resulting in approximately 74.03% time savings. This strategic shift not only enhances operational efficiency but also allows the organization to reallocate resources toward more strategic initiatives, ultimately driving greater value and insights from the CLV analysis.
 
+
+# **Thank You**
+
 - Permanently implement machine learning for customer segmentation and CLV prediction because it can significantly reduce marketing costs by 38.4%, achieved through more efficient resource allocation and precise targeting of customers. This approach not only optimizes the use of marketing budgets but also enhances the effectiveness of campaigns, ensuring that resources are directed towards the most valuable customer segments. By leveraging machine learning, the company can make data-driven decisions that maximize both cost efficiency and marketing impact, leading to improved overall business performance.
 
 - Develop an application based on the created model to streamline predictions and segmentation, supporting CAV Autoinsurance's operational goals.

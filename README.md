@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://i.imgur.com/omRnugM.png" alt="logo" />
 </p>
+
 ## Context
 **CAV AutoInsurance**, a well-established auto insurance provider since 2000, operates in a highly competitive market. To sustain growth and improve its market position, the company aims to enhance its marketing strategies and customer retention efforts. Specifically, **CAV AutoInsurance** seeks to develop a more targeted approach to customer retention and optimize its marketing campaigns. By understanding the value of each customer, the company intends to allocate resources more effectively, maximize the impact of its campaigns, and ultimately drive better customer engagement and increased profitability.
 

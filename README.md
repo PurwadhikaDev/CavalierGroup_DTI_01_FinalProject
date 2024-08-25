@@ -5,7 +5,7 @@
 - 🔖[Customer Lifetime Value Dataset](https://www.kaggle.com/ranja7/vehicle-insurance-customer-data)
 
 <p align="center">
-  <img src="https://i.imgur.com/omRnugM.png" alt="logo" />
+  <img src="https://i.imgur.com/omRnugM.png" alt="logo" width="400px" />
 </p>
 
 ## Context

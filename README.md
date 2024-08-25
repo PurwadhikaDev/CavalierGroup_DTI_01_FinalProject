@@ -1,4 +1,18 @@
-# CavalierGroup_DTI_01_FinalProject
+<div style="text-align: center;">
+  <h1 style="background-color: #1B4B5E; color: white; padding: 20px 40px; margin-bottom: 20px; border-radius: 8px;">
+    <strong style="font-size: 2em;">CAV AUTOINSURANCE</strong>
+    <br>
+    <span style="font-size: 1em;">Optimise Customer Retention and Enhance Customer Lifetime Value</span>
+  </h1>
+</div>
+
+
+<div style="text-align: center; margin-top: -10px;">
+  <span style="color: white; font-size: 1.3em;">By Cavalier</span>
+</div>
+
+<hr style="border: 5px solid #1B4B5E; width: 80%; margin: 20px auto;">
+
 - ⭐[Ivan Robi Septian](https://github.com/Ivan-R-Septian), [Shafa Salzabila Meidita](https://github.com/shafameidita), [Ammar Muzaki Maftuh](https://github.com/Zacky182)
 - 📊[Tableau Dashboard](https://public.tableau.com/app/profile/shafa.salzabila.meidita/viz/CAVAutoinsurance/CavalierDashboard)
 - 📓[Notebook Analysis](https://github.com/PurwadhikaDev/CavalierGroup_DTI_01_FinalProject/blob/main/Autoinsurance_Cavalier.ipynb)

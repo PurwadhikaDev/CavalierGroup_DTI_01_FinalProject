@@ -1,9 +1,6 @@
 <div style="text-align: center;">
   <h1 style="background-color: #1B4B5E; color: white; padding: 20px 40px; margin-bottom: 20px; border-radius: 8px;">
     <strong style="font-size: 2em;">CAV AUTOINSURANCE</strong>
-    <br>
-    <span style="font-size: 1em;">Optimise Customer Retention and Enhance Customer Lifetime Value</span>
-  </h1>
 </div>
 
 
